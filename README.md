@@ -14,26 +14,26 @@ I am Juan Guillermo Gómez 😃. I am from Colombia and currently living in Méx
 * GDE (Google Developer Expert) in Firebase and GCP.
 * Neo4j Certified.
 * Scrum Master Certified.
-* Participation as developer, tech lead and architect + 100 systems.
+* Participation as developer, tech lead and architect +100 systems.
 * BS in System Engineering at USC Cali.
 * M.Sc in Software Engineering at Universidad San Buenaventura Cali.
 ## 🚀 Technologies
 - Mobile application development using **Android, Koltin, Java** +30 apps
-- Backend development using **Kotlin, Python, JS** + 100 systems
+- Backend development using **Kotlin, Python, JS** +100 systems
 - Creating scalable cloud architecture using **Firebase**
 - Creating scalable cloud architecture using **GCP**
 - Software Architect.
 - Consultant and advisor on software architecture, cloud computing and software development.
 ## 💬 Teaching
-- Teaching to several universities in master's and bachelor's degress.
-- Mentor in startup's programs.
+- Teaching at various universities in master and bachelor degress.
+- Mentor in startup programs.
 - Youtube channel. [DevHack](https://www.youtube.com/devhack)
 - Podcast. [Snnipets Tech](https://anchor.fm/jggomez)
 - Teaching online platforms (Platzi, EdTeam, DevHack, my youtube channel).
 ## 🔭 Ask me 🤔
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Blog](https://medium.com/@jggomezt)
-- 🔔 Subscribe my videos and workshops: [DevHack](https://www.youtube.com/devhack)
-- 🔔 Subscribe my podcast:- [Snnipets Tech](https://anchor.fm/jggomez)
+- 💬  Ask me about anything and everything.
+- 📫  Read my blogs: [Blog](https://medium.com/@jggomezt)
+- 🔔  Subscribe my videos and workshops: [DevHack](https://www.youtube.com/devhack)
+- 🔔  Subscribe my podcast:- [Snnipets Tech](https://anchor.fm/jggomez)
 
 ![Juan Guillermo stats](https://github-readme-stats.vercel.app/api?username=jggomez&hide=["issues"]&show_icons=true)
