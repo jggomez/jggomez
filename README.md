@@ -18,7 +18,7 @@ I am Juan Guillermo Gómez 😃. I am from Colombia and currently living in Méx
 * BS in System Engineering at USC Cali.
 * M.Sc in Software Engineering at Universidad San Buenaventura Cali.
 ## 🚀 Technologies
-- Mobile application development using **Android, Koltin, Java** +30 apps
+- Mobile application development using **Android, Kotlin, Java** +30 apps
 - Backend development using **Kotlin, Python, JS** +100 systems
 - Creating scalable cloud architecture using **Firebase**
 - Creating scalable cloud architecture using **GCP**
