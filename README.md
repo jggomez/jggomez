@@ -1,7 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://media-exp1.licdn.com/dms/image/C4E03AQHBP0tvSmBdUQ/profile-displayphoto-shrink_400_400/0?e=1601510400&v=beta&t=mmOcy8drU-zpNGlcgWOaVef-bnlvvcOBsu8llekh4mU' width='200"'>
-
 [![Twitter Badge](https://img.shields.io/badge/-@jggomezt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jggomezt)](https://twitter.com/jggomezt) [![Linkedin Badge](https://img.shields.io/badge/-jggomezt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jggomezt/)](https://www.linkedin.com/in/jggomezt/) [![Medium Badge](https://img.shields.io/badge/-@jggomezt-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jggomezt)](https://medium.com/@jggomezt)
 [![Gmail Badge](https://img.shields.io/badge/-DevHack-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.youtube.com/devhack)](https://www.youtube.com/devhack)
 
