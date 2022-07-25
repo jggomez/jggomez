@@ -9,7 +9,7 @@ I am Juan Guillermo Gómez 😃. I am from Colombia and currently living in Méx
 * Founder DevHack. [DevHack](https://devhack.co)
 * I have been involved in the tech community for the past 15 years. He attends more than 30 events per year as a guest speaker throughout Latin America, where he speaks about mobile, android, cloud, firebase, kotlin, software architecture, entrepreneurship and innovation.
 * Educator at DevHack and tech lead in WordBox.
-* GDE (Google Developer Expert) in Firebase and GCP.
+* GDE (Google Developer Expert) in Firebase, GCP and Kotlin.
 * Neo4j Certified.
 * Scrum Master Certified.
 * Participation as developer, tech lead and architect +100 systems.
