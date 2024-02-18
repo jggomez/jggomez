@@ -30,6 +30,7 @@ I am Juan Guillermo Gómez 😃. I am from Colombia and currently living in Méx
 - Mentor in startup programs.
 - Youtube channel. [DevHack](https://www.youtube.com/devhack)
 - Podcast. [Snnipets Tech](https://anchor.fm/jggomez)
+- Read my blogs: [Blog](https://medium.com/@jggomezt)
 - Teaching online platforms (Platzi, EdTeam, DevHack, my youtube channel).
 ## 🔭 Ask me 🤔
 - 💬  Ask me about anything and everything.
