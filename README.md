@@ -8,16 +8,19 @@ I am Juan Guillermo Gómez 😃. I am from Colombia and currently living in Méx
 * Co-lider and Co-Founder GDG Cali. [GDG Cali](https://www.meetup.com/GDGCali/)
 * Founder DevHack. [DevHack](https://devhack.co)
 * I have been involved in the tech community for the past 15 years. He attends more than 30 events per year as a guest speaker throughout Latin America, where he speaks about mobile, android, cloud, firebase, kotlin, software architecture, entrepreneurship and innovation.
-* Educator at DevHack and tech lead in WordBox.
+* Educator at DevHack
+* Tech lead in WordBox.
 * GDE (Google Developer Expert) in Firebase, GCP, Kotlin and On-Device Machine Learning.
 * Neo4j Certified.
 * Scrum Master Certified.
+* Google Cloud Certified Professional Cloud Architect
+* Google Cloud Certified Professional Cloud Developer
 * Participation as developer, tech lead and architect +100 systems.
 * BS in System Engineering at USC Cali.
 * M.Sc in Software Engineering at Universidad San Buenaventura Cali.
 ## 🚀 Technologies
 - Mobile application development using **Android, Kotlin, Java** +30 apps
-- Backend development using **Kotlin, Python, JS, Java, C#, PL/SQL, Transact SQL, C** +100 systems
+- Backend development using **Kotlin, Python, JS, Go, Java, C#, PL/SQL, Transact SQL, C** +100 systems
 - Creating scalable cloud architecture using **Firebase**
 - Creating scalable cloud architecture using **GCP**
 - Software Architect.
