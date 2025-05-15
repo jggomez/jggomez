@@ -19,7 +19,7 @@ I am Juan Guillermo Gómez 😃. I am from Colombia and currently living in Méx
 * Participation as developer, tech lead, and architect +100 systems.
 * **BS in System Engineering at USC Cali.**
 * **M.Sc in Software Engineering at Universidad San Buenaventura Cali.**
-* **M.Sc in Software Engineering at Universidad Autonoma de Occidente Cali. (In Progress)**
+* **M.Sc in Artificial Intelligence and Data Science at Universidad Autonoma de Occidente Cali. (In Progress)**
 ## 🚀 Technologies
 - Backend development using **Kotlin, Python, JS, Go, Java, C#, PL/SQL, Transact SQL, C** +100 systems
 - Mobile application development using **Android, Kotlin** +30 apps
