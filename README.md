@@ -1,42 +1,63 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there, I am Juan Guillermo Gómez! 👋 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Twitter Badge](https://img.shields.io/badge/-@jggomezt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jggomezt)](https://twitter.com/jggomezt) [![Linkedin Badge](https://img.shields.io/badge/-jggomezt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jggomezt/)](https://www.linkedin.com/in/jggomezt/) [![Medium Badge](https://img.shields.io/badge/-@jggomezt-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jggomezt)](https://medium.com/@jggomezt)
 [![Gmail Badge](https://img.shields.io/badge/-DevHack-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.youtube.com/devhack)](https://www.youtube.com/devhack)
 
-I am Juan Guillermo Gómez 😃. I am from Colombia and currently living in México (CDMX). I love to explore, learn and teach about new things and tech topics.
+I am a passionate Software Engineer and GDE from Colombia 🇨🇴, currently living in Mexico City (CDMX) 🇲🇽. I love to explore, learn, and teach about innovative tech topics.
 
-## ⚡ Communities and Short CV
-* Co-lider and Co-Founder GDG Cali. [GDG Cali](https://www.meetup.com/GDGCali/)
-* Founder DevHack. [DevHack](https://devhack.co)
-* I have been involved in the tech community for the past 15 years. He attends more than 30 events per year as a guest speaker throughout Latin America, where he speaks about cloud, firebase, AI, software architecture, entrepreneurship, and innovation.
-* Educator at DevHack
-* Tech lead in WordBox.
-* GDE (Google Developer Expert) in Firebase, GCP, Kotlin and AI.
-* Neo4j Certified.
-* Scrum Master Certified.
-* Google Cloud Certified Professional Cloud Architect
-* Google Cloud Certified Professional Cloud Developer
-* Participation as developer, tech lead, and architect +100 systems.
-* **BS in System Engineering at USC Cali.**
-* **M.Sc in Software Engineering at Universidad San Buenaventura Cali.**
-* **M.Sc in Artificial Intelligence and Data Science at Universidad Autonoma de Occidente Cali. (In Progress)**
-## 🚀 Technologies
-- Backend development using **Kotlin, Python, JS, Go, Java, C#, PL/SQL, Transact SQL, C** +100 systems
-- Mobile application development using **Android, Kotlin** +30 apps
-- Creating scalable cloud architecture using **Firebase and GCP**
-- Software Architect.
-- Consultant and advisor on software architecture, cloud computing, software development, AI.
-## 💬 Teaching
-- Teaching at various universities for master's and bachelor's degrees.
-- Mentor in startup programs.
-- Youtube channel. [DevHack](https://www.youtube.com/devhack)
-- Podcast. [Snnipets Tech](https://anchor.fm/jggomez)
-- Read my blogs: [Blog](https://medium.com/@jggomezt)
-- Teaching online platforms (Platzi, EdTeam, DevHack, my YouTube channel).
-## 🔭 Ask me 🤔
-- 💬  Ask me about anything and everything.
-- 📫  Read my blogs: [Blog](https://medium.com/@jggomezt)
-- 🔔  Subscribe to my videos and workshops: [DevHack](https://www.youtube.com/devhack)
-- 🔔  Subscribe to my podcast:- [Snnipets Tech](https://anchor.fm/jggomez)
+## 🚀 About Me & Highlights
+* **GDE (Google Developer Expert)** in Firebase, GCP, Kotlin, and AI.
+* **Tech Lead** at WordBox.
+* **Founder** of [DevHack](https://devhack.co) and Educator.
+* **Co-Founder & Co-Leader** of [GDG Cali](https://www.meetup.com/GDGCali/).
+* **Speaker** at +30 events per year throughout LatAm (Cloud, AI, Architecture, Innovation).
+* **Academic Background:**
+    * 🎓 M.Sc. in Artificial Intelligence and Data Science (In Progress) - UAO Cali.
+    * 🎓 M.Sc. in Software Engineering - USB Cali.
+    * 🎓 BS in Systems Engineering - USC Cali.
 
-![Juan Guillermo stats](https://github-readme-stats.vercel.app/api?username=jggomez&hide=["issues"]&show_icons=true)
+## 🛠 Technologies & Stack
+
+### 🤖 AI, Data Science & Analytics
+Focusing on **Data Analytics Architecture**, **ETL** processes, and advanced analytics:
+* **Machine Learning & Deep Learning**
+* **Generative AI (LLMs, Agents)**
+* **NLP (Natural Language Processing)**
+* **Time Series Analysis**
+* **Multivariate Analytics**
+* **Data Analysis & Visualization**
+
+### ☁️ Cloud & Architecture
+* **GCP (Google Cloud Platform)** & **Firebase**
+* Tech Lead
+* Design Software
+* Scalable Cloud Architectures
+* Microservices & Serverless
+
+### 💻 Software Development
+* **Backend:** Kotlin, Python, Java, Go, C#, Node.js.
+* **Mobile:** Android, Kotlin.
+* **Databases:** SQL (Transact, PL/SQL), NoSQL, Graph (Neo4j).
+* **Experience:** Architect and Developer in +100 systems.
+
+## 📜 Certifications
+* **Google Cloud** | Generative AI Leader
+* **Google Cloud** | Professional Machine Learning Engineer
+* **Google Cloud** | Professional Cloud Architect
+* **Google Cloud** | Professional Cloud Developer
+* **Neo4j** | Certified Professional
+* **Scrum Alliance** | Scrum Master Certified
+
+## 💬 Knowledge Sharing
+I have been involved in the tech community for the past 15 years. I love sharing knowledge through various channels:
+* 📺 **YouTube:** [DevHack Channel](https://www.youtube.com/devhack)
+* 🎙️ **Podcast:** [Snippets Tech](https://anchor.fm/jggomez)
+* 📝 **Blog:** [Medium Articles](https://medium.com/@jggomezt)
+* 🏫 **Teaching:** Professor at various universities (Master's & Bachelor's) and Mentor in startup programs.
+
+---
+
+### 🔭 Ask me about...
+Anything related to **Cloud, AI, Software Architecture, or Entrepreneurship**.
+
+[![Juan Guillermo stats](https://github-readme-stats.vercel.app/api?username=jggomez&hide=["issues"]&show_icons=true)](https://github.com/jggomez)
