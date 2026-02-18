@@ -7,7 +7,7 @@ I am a passionate Software Engineer and GDE from Colombia 🇨🇴, currently li
 
 ## 🚀 About Me & Highlights
 * **GDE (Google Developer Expert)** in Firebase, GCP, Kotlin, and AI.
-* **Tech Lead** at WordBox.
+* **Founding AI Engineer** at Fuse Finance.
 * **Founder** of [DevHack](https://devhack.co) and Educator.
 * **Co-Founder & Co-Leader** of [GDG Cali](https://www.meetup.com/GDGCali/).
 * **Speaker** at +30 events per year throughout LatAm (Cloud, AI, Architecture, Innovation).
