@@ -1,63 +1,49 @@
-<h2> Hi there, I am Juan Guillermo Gómez! 👋 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# 🚀 Juan Guillermo Gómez Torres
+### 4x Google Developer Expert (GDE) in AI, GCP, Firebase & Kotlin | Agentic AI Architect & Consultant
 
-[![Twitter Badge](https://img.shields.io/badge/-@jggomezt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jggomezt)](https://twitter.com/jggomezt) [![Linkedin Badge](https://img.shields.io/badge/-jggomezt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jggomezt/)](https://www.linkedin.com/in/jggomezt/) [![Medium Badge](https://img.shields.io/badge/-@jggomezt-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jggomezt)](https://medium.com/@jggomezt)
-[![Gmail Badge](https://img.shields.io/badge/-DevHack-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.youtube.com/devhack)](https://www.youtube.com/devhack)
+En la era del **Vibe Coding**, cualquiera puede generar líneas de código. La verdadera ventaja competitiva no es escribir código, sino **diseñar estructuras sólidas, escalables y agénticas** que resuelvan problemas reales de negocio. 
 
-I am a passionate Software Engineer and GDE from Colombia 🇨🇴, currently living in Mexico City (CDMX) 🇲🇽. I love to explore, learn, and teach about innovative tech topics.
+Soy Consultor de Software e Inteligencia Artificial, enfocado en fusionar la rigurosidad de la Ingeniería de Software con el poder de los Sistemas Multi-Agente y la Arquitectura Cloud.
 
-## 🚀 About Me & Highlights
-* **GDE (Google Developer Expert)** in Firebase, GCP, Kotlin, and AI.
-* **Founding AI Engineer** at Fuse Finance.
-* **Founder** of [DevHack](https://devhack.co) and Educator.
-* **Co-Founder & Co-Leader** of [GDG Cali](https://www.meetup.com/GDGCali/).
-* **Speaker** at +30 events per year throughout LatAm (Cloud, AI, Architecture, Innovation).
-* **Academic Background:**
-    * 🎓 M.Sc. in Artificial Intelligence and Data Science (In Progress) - UAO Cali.
-    * 🎓 M.Sc. in Software Engineering - USB Cali.
-    * 🎓 BS in Systems Engineering - USC Cali.
-
-## 🛠 Technologies & Stack
-
-### 🤖 AI, Data Science & Analytics
-Focusing on **Data Analytics Architecture**, **ETL** processes, and advanced analytics:
-* **Machine Learning & Deep Learning**
-* **Generative AI (LLMs, Agents)**
-* **NLP (Natural Language Processing)**
-* **Time Series Analysis**
-* **Multivariate Analytics**
-* **Data Analysis & Visualization**
-
-### ☁️ Cloud & Architecture
-* **GCP (Google Cloud Platform)** & **Firebase**
-* Tech Lead
-* Design Software
-* Scalable Cloud Architectures
-* Microservices & Serverless
-
-### 💻 Software Development
-* **Backend:** Kotlin, Python, Java, Go, C#, Node.js.
-* **Mobile:** Android, Kotlin.
-* **Databases:** SQL (Transact, PL/SQL), NoSQL, Graph (Neo4j).
-* **Experience:** Architect and Developer in +100 systems.
-
-## 📜 Certifications
-* **Google Cloud** | Generative AI Leader
-* **Google Cloud** | Professional Machine Learning Engineer
-* **Google Cloud** | Professional Cloud Architect
-* **Google Cloud** | Professional Cloud Developer
-* **Neo4j** | Certified Professional
-* **Scrum Alliance** | Scrum Master Certified
-
-## 💬 Knowledge Sharing
-I have been involved in the tech community for the past 15 years. I love sharing knowledge through various channels:
-* 📺 **YouTube:** [DevHack Channel](https://www.youtube.com/devhack)
-* 🎙️ **Podcast:** [Snippets Tech](https://anchor.fm/jggomez)
-* 📝 **Blog:** [Medium Articles](https://medium.com/@jggomezt)
-* 🏫 **Teaching:** Professor at various universities (Master's & Bachelor's) and Mentor in startup programs.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jggomezt/)](https://www.linkedin.com/in/jggomezt/) [![Youtube Badge](https://img.shields.io/badge/-DevHack-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/devhack)](https://www.youtube.com/devhack) [![Podcast Badge](https://img.shields.io/badge/-Snippets_Tech-blueviolet?style=for-the-badge&logo=spotify&logoColor=white&link=https://anchor.fm/jggomez)](https://anchor.fm/jggomez)
 
 ---
 
-### 🔭 Ask me about...
-Anything related to **Cloud, AI, Software Architecture, or Entrepreneurship**.
+## ⚡ Formación de Élite & Alianzas Especializadas
+*   **AcaDevHack IA:** Fundador y Mentor Principal. Formando a la próxima generación de ingenieros que diseñan soluciones de IA que funcionan, no solo trucos de magia.
+*   **Socio de Workshop con el Dr. Henry Ruiz (Texas A&M University):** Co-diseñador de programas avanzados en Sistemas Multi-Agente y orquestación de LLMs.
+*   **Investigación Avanzada:** Candidato a M.Sc. en Inteligencia Artificial y Ciencia de Datos (UAO) & M.Sc. en Ingeniería de Software (USB).
 
-[![Juan Guillermo stats](https://github-readme-stats.vercel.app/api?username=jggomez&hide=["issues"]&show_icons=true)](https://github.com/jggomez)
+---
+
+## 🛠️ The Core Stack & Architectural Focus
+
+| 🤖 Agentic AI & Data | ☁️ Cloud & Core Systems | 💻 Polyglot Backend |
+| :--- | :--- | :--- |
+| • Multi-Agent Systems & Genkit<br>• Model Context Protocol (MCP)<br>• Graph RAG (Neo4j + Gemini)<br>• Deep Learning & NLP | • Google Cloud Platform (GCP)<br>• Firebase Ecosystem<br>• Scalable Microservices<br>• Serverless Architectures | • Kotlin (Advanced / Mobile)<br>• Python (AI Ecosystem)<br>• Go, Java, C#, Node.js<br>• SQL & Graph Databases |
+
+---
+
+## 🎯 Formación y Consultoría (¡Inscríbete Ahora!)
+
+¿Quieres dejar de ser un ejecutor y convertirte en el arquitecto de tus propios sistemas inteligentes? 
+
+*   **[Workshop] Arquitectura y Diseño de Software en la Era de la IA:** Domina los atributos de calidad, "explainability" y los trade-offs críticos de diseño.
+*   **[Workshop] Fundamentos en Construcción de Agentes de IA:** No hables con la IA, constrúyela desde cero usando patrones de diseño agénticos (ReAct, MCP, Memory).
+
+👉 **[Haz clic aquí para ver la agenda completa y asegurar tu cupo en AcaDevHack](https://devhack.co)** *(Descuentos limitados activos)*
+
+---
+
+## 🎙️ Píldoras de Conocimiento DevHack
+
+Mantente a la vanguardia tecnológica con mis últimos análisis y laboratorios prácticos:
+
+*   🎧 **Podcast (Snippets Tech):** *Graph RAG: Contexto + Precisión* | *Genkit: El Framework de Desarrollo de IA*.
+*   📺 **YouTube (DevHack):** *File Search Tool en Gemini* | *Implementación de Graph RAG con Neo4j*.
+*   📝 **Medium Blog:** *Explorando los Fundamentos del Deep Learning* | *Gemini Flash para OCR estructurado*.
+
+---
+
+### 🔭 Hablemos de Negocios e Innovación
+Si buscas optimizar tu infraestructura Cloud, integrar IA agéntica en tus flujos corporativos o requieres un Speaker internacional para tu evento: **juan.gomez01@gmail.com**
