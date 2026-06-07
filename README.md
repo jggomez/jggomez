@@ -1,5 +1,5 @@
 # 🚀 Juan Guillermo Gómez Torres
-### 4x Google Developer Expert (GDE) in AI, GCP, Firebase & Kotlin | Agentic AI Architect & Consultant
+### 3x Google Developer Expert (GDE) in AI, GCP & Firebase | Agentic AI Architect & Consultant
 
 En la era del **Vibe Coding**, cualquiera puede generar líneas de código. La verdadera ventaja competitiva no es escribir código, sino **diseñar estructuras sólidas, escalables y agénticas** que resuelvan problemas reales de negocio. 
 
