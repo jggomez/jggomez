@@ -1,49 +1,59 @@
-# Juan Guillermo Gómez Torres
-### 3x Google Developer Expert (GDE) in AI, GCP & Firebase | Agentic AI Architect & Consultant
+# 🚀 Juan Guillermo Gómez Torres
+### 3x Google Developer Expert (GDE) in AI, GCP & Firebase | Agentic AI Architect, Consultant & Core Developer
 
-En la era del **Vibe Coding**, cualquiera puede generar líneas de código. La verdadera ventaja competitiva no es escribir código, sino **diseñar estructuras sólidas, escalables y agénticas** que resuelvan problemas reales de negocio. 
+In the era of **Vibe Coding**, lines of unarchitected code are a dime a dozen. Real competitive advantage belongs to enterprises that deploy **robust, secure, and production-grade Agentic AI ecosystems**. 
 
-Soy Consultor de Software e Inteligencia Artificial, enfocado en fusionar la rigurosidad de la Ingeniería de Software con el poder de los Sistemas Multi-Agente y la Arquitectura Cloud.
+I bridge the critical gap between traditional Software Engineering rigor and cutting-edge Artificial Intelligence. I provide end-to-end **Strategic Advisory, Specialized Consulting, and Hands-on Technical Implementation (Development)** for organizations scaling from experimental models to production-grade AI systems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jggomezt/)](https://www.linkedin.com/in/jggomezt/) [![Youtube Badge](https://img.shields.io/badge/-DevHack-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/devhack)](https://www.youtube.com/devhack) [![Podcast Badge](https://img.shields.io/badge/-Snippets_Tech-blueviolet?style=for-the-badge&logo=spotify&logoColor=white&link=https://anchor.fm/jggomez)](https://anchor.fm/jggomez)
-
----
-
-## ⚡ Formación de Élite & Alianzas Especializadas
-*   **AcaDevHack IA:** Fundador y Mentor Principal. Formando a la próxima generación de ingenieros que diseñan soluciones de IA que funcionan, no solo trucos de magia.
-*   **Socio de Workshop con el Dr. Henry Ruiz (Texas A&M University):** Co-diseñador de programas avanzados en Sistemas Multi-Agente y orquestación de LLMs.
-*   **Investigación Avanzada:** Candidato a M.Sc. en Inteligencia Artificial y Ciencia de Datos (UAO) & M.Sc. en Ingeniería de Software (USB).
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jggomezt/)](https://www.linkedin.com/in/jggomezt/) [![Youtube Badge](https://img.shields.io/badge/-DevHack_TV-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/devhack)](https://www.youtube.com/devhack) [![Podcast Badge](https://img.shields.io/badge/-Snippets_Tech-blueviolet?style=for-the-badge&logo=spotify&logoColor=white&link=https://anchor.fm/jggomez)](https://anchor.fm/jggomez)
 
 ---
 
-## 🛠️ The Core Stack & Architectural Focus
+## ⚡ Enterprise AI Capabilities: Advisory, Consulting & Development
 
-| 🤖 Agentic AI & Data | ☁️ Cloud & Core Systems | 💻 Polyglot Backend |
+I don’t just write prompts; I architect and build end-to-end intelligent systems. My technical deployment and advisory focus covers:
+
+*   **Generative AI & Multi-Agent Systems:** Custom multi-agent orchestration, resilient workflow patterns, autonomous digital agents, and Genkit implementations.
+*   **Deep Learning & Machine Learning:** Custom model design, fine-tuning, training pipelines, and deployment of predictive multi-variate systems.
+*   **Advanced Data Retrieval:** Graph RAG (Neo4j + Gemini integration) and secure Model Context Protocol (MCP) toolboxes for enterprise databases.
+*   **Scalable Cloud Infrastructure:** High-availability Google Cloud Platform (GCP) and Firebase architectures engineered for massive AI data throughput.
+
+---
+
+## 🛠️ The Core Technical Stack
+
+| 🤖 Advanced AI & Agents | ☁️ Cloud & Architecture | 💻 Production Backend |
 | :--- | :--- | :--- |
-| • Multi-Agent Systems & Genkit<br>• Model Context Protocol (MCP)<br>• Graph RAG (Neo4j + Gemini)<br>• Deep Learning & NLP | • Google Cloud Platform (GCP)<br>• Firebase Ecosystem<br>• Scalable Microservices<br>• Serverless Architectures | • Kotlin (Advanced / Mobile)<br>• Python (AI Ecosystem)<br>• Go, Java, C#, Node.js<br>• SQL & Graph Databases |
+| • Multi-Agent Architectures<br>• Machine Learning & Deep Learning<br>• Graph RAG (Neo4j + Gemini)<br>• Model Context Protocol (MCP) | • Google Cloud Platform (GCP)<br>• Firebase Production Ecosystem<br>• Enterprise Microservices<br>• Serverless Data Infrastructure | • Python (AI & Data Science)<br> • Go, JS, Node.js<br>• Relational, NoSQL & Graph DBs |
 
 ---
 
-## 🎯 Formación y Consultoría (¡Inscríbete Ahora!)
-
-¿Quieres dejar de ser un ejecutor y convertirte en el arquitecto de tus propios sistemas inteligentes? 
-
-*   **[Workshop] Arquitectura y Diseño de Software en la Era de la IA:** Domina los atributos de calidad, "explainability" y los trade-offs críticos de diseño.
-*   **[Workshop] Fundamentos en Construcción de Agentes de IA:** No hables con la IA, constrúyela desde cero usando patrones de diseño agénticos (ReAct, MCP, Memory).
-
-👉 **[Haz clic aquí para ver la agenda completa y asegurar tu cupo en AcaDevHack](https://devhack.co)** *(Descuentos limitados activos)*
+## 🏫 Knowledge Sharing & Technical Ecosystems
+I have spent the last 15 years cultivating the tech ecosystem across LatAm, translating bleeding-edge technology into practical engineering frameworks.
+*   **AcaDevHack IA & DevHack:** Founder and Lead Mentor. Building elite technical workforces capable of architecting real-world AI solutions.
+*   **Academic Leadership:** University Professor instructing Master's and Bachelor's programs in Software Engineering and Data Science.
+*   **International Speaker:** Presenting advanced Cloud Architecture and AI implementation strategies at over 30 global tech events annually.
 
 ---
 
-## 🎙️ Píldoras de Conocimiento DevHack
+## 🎯 Premium Training & Architecture Workshops
 
-Mantente a la vanguardia tecnológica con mis últimos análisis y laboratorios prácticos:
+Stop fighting hallucinating models. Learn how to build digital autonomy with strict structural guardrails.
 
-*   🎧 **Podcast (Snippets Tech):** *Graph RAG: Contexto + Precisión* | *Genkit: El Framework de Desarrollo de IA*.
-*   📺 **YouTube (DevHack):** *File Search Tool en Gemini* | *Implementación de Graph RAG con Neo4j*.
-*   📝 **Medium Blog:** *Explorando los Fundamentos del Deep Learning* | *Gemini Flash para OCR estructurado*.
+*   **[Workshop] Resilient Software Architecture in the AI Era:** Master quality attributes, explainability, and critical technical trade-offs.
+*   **[Workshop] AI Agents Blueprint & Architecture:** Design, build, and deploy single and multi-agent systems using ReAct, MCP, and advanced state memory.
+
+👉 **[Secure your corporate seat or view active schedules at AcaDevHack](https://devhack.co/academy-ai/index.html)** *(Limited-time cohorts active)*
 
 ---
 
-### 🔭 Hablemos de Negocios e Innovación
-Si buscas optimizar tu infraestructura Cloud, integrar IA agéntica en tus flujos corporativos o requieres un Speaker internacional para tu evento: **juan.gomez01@gmail.com**
+## 🎙️ Latest Technical Media & Insights
+
+*   🎧 **Podcast (Snippets Tech):** *Graph RAG: Context + Precision* | *Genkit: The Next-Gen AI Framework*.
+*   📺 **YouTube (DevHack):** *Gemini File Search Tool Deep Dive* | *Building Graph RAG with Neo4j & Gemini*.
+*   📝 **Medium Blog:** *Deep Learning Fundamentals: Feedforward & Backpropagation* | *Document OCR with Gemini Flash*.
+
+---
+
+### 💼 Enterprise Inquiries & Consulting
+Looking to optimize your cloud spend, train your core engineering team, or implement a proprietary Multi-Agent ecosystem? Let's build it: **juan.gomez01@gmail.com**
